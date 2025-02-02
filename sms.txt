@@ -1,0 +1,6 @@
+
+CONDITION = CON
+POFF	  = POF
+PON	  = PON
+AUTO	  = AUT
+MANUAL	  = MAN
