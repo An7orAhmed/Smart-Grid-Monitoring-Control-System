@@ -1,4 +1,3 @@
-```markdown
 # Smart Grid Monitoring & Control System
 
 ## Description  
@@ -38,5 +37,3 @@ Project documentation includes schematics and operational flowcharts (see reposi
   - Threshold adjustment via button inputs  
   - Fault detection → Relay cutoff and SMS alerts  
 - **SMS Handler:** Constructs messages with voltage/frequency data, sends via GSM module  
-
-```
